@@ -35,10 +35,10 @@
   <a href="https://twitter.com/biel_gsoares" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="mailto:gabrielgonsoares@hotmail.com" target="_blank">
+  <a href="mailto:gabrielgoncasoares@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCm59YMWT4XV6mV4coTptMlA" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
